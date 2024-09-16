@@ -43,3 +43,7 @@ body{
     font-size: smaller;
     margin-bottom: 10px;
 }
+
+.linea-titoli{
+    background-color: rgb(79, 79, 211);
+}
