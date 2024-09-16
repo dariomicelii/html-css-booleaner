@@ -39,11 +39,33 @@ body{
     width: 300px;
 }
 
-.didascalie{
+.didascalia1{
     font-size: smaller;
-    margin-bottom: 10px;
+    margin-bottom: 3px;
+    margin-top: 2px;
+}
+
+.didascalia2{
+    font-size: smaller;
+    margin-bottom: 40px;
+    margin-top: 2px;
+}
+
+.table{
+    margin-top: 50px;
 }
 
 .linea-titoli{
     background-color: rgb(79, 79, 211);
+    color: white;
+}
+
+
+.riga-azzurra{
+    background-color: lightblue;
+}
+
+.adv{
+    color: grey;
+    margin-top: 50px;
 }
