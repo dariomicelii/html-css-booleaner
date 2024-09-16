@@ -17,4 +17,24 @@ body{
 
 .main-title{
     font-size: 30px;
+    margin-bottom: 5px;
+}
+
+.author{
+    font-size: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.date{
+    font-size: 10px;
+    margin-top: 5px;
+}
+
+.tim1{
+    width: 350px;
+}
+
+.tim2{
+    width: 300px;
 }
