@@ -61,6 +61,13 @@ main{
 
 .table{
     margin-top: 50px;
+    border-collapse: collapse;
+}
+
+.table-title{
+    padding-left: 100px;
+    margin-right: 20px;
+
 }
 
 .linea-titoli{
